@@ -8,33 +8,43 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+[partners]
+  partners = [
+    "Magnesium Elektron Ltd",
+    "Rolls-Royce Plc"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+[[academics.academics]]
+  name = "Prof. Tony Paxton"
+  institution = "King's College London"
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+[[academics.academics]]
+  name = "Dr Andrew Horsfield"
+  institution = "Imperial College London"
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+[[academics.academics]]
+  name = "Dr Jarvist Moore Frost"
+  institution = "King's College London"
+
+[[academics.academics]]
+  name = "Dr Richard Fogarty"
+  institution = "Imperial College London"
+
 +++
 
-# Biography
+Quantum Corrosion is an EPSRC Programme-Grant
+([EP/R005230/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005230/1)) funded project to develop quantum-mechanical methods to model corrosion in technologically relevant materials.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In 2008 the annual financial cost to the UK arising from corrosion damage to
+metals was $70.6 billion. In addition to the financial cost, the threat of
+corrosion limits the range of materials that can be safely or reliably
+deployed. The principal reason why magnesium alloys are not as ubiquitous as
+the denser aluminium is their susceptibility to aqueous corrosion even in
+reasonably dry air. Titanium alloys are more corrosion resistant, but in the
+aerospace sector suffer stress corrosion cracking following degreasing in
+chlorine-containing agents, or even after handling by salty fingers! When
+titanium is used for medical implants, corrosion is a principal cause of
+failure; for example, localised wear of an implant exposes a small area of
+metal establishing a large anodic current density and localised metal wastage.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
