@@ -233,7 +233,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/ComputationalCorrosion"
+    link = "//github.com/QuantumCorrosion"
 
 
 # Navigation Links
