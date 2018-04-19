@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [partners]
   partners = [
-    "Magnesium Elektron Ltd",
+    "Luxfer MEL Technologies",
     "Rolls-Royce Plc"
   ]
 
