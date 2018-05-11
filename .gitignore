@@ -1,2 +1,24 @@
-public/
-.idea/
+# Created by https://www.gitignore.io/api/vim,hugo
+
+### Hugo ###
+# Hugo binary
+hugo*
+
+# Generated files at default location
+/public/
+/resources/_gen
+
+### Vim ###
+# swap
+.sw[a-p]
+.*.sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+
+
+# End of https://www.gitignore.io/api/vim,hugo
