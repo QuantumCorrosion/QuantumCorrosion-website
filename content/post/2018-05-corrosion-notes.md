@@ -27,9 +27,9 @@ Mnemonics and definitions
 
 -   **OILRIG** Oxidation Is Loss Reduction Is Gain
 
--   Anode oxid**A**tion
+-   At an **A**node we have oxid**A**tion
 
--   Cathode redu**C**tion
+-   At a **C**athode we have redu**C**tion
 
 -   A reduction reaction has the electrons on the left. For example
     $M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of
