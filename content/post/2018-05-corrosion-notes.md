@@ -36,31 +36,32 @@ Mnemonics and definitions
     M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation,
     and this happens at the anode during corrosion.
 
--   Noble metal: unreactive, has large positive standard electrode
-    potential (solid metal more stable than aqueous ions).
+-   A **noble metal** is unreactive and has a large positive standard electrode
+    potential. The solid metal is more stable than its aqueous ions.
 
--   Base metal: reactive, has large negative standard electrode
-    potential (solid metal less stable than aqueous ions).
+-   A **base metal** is reactive and has large negative standard electrode
+    potential. The solid metal is less stable than its aqueous ions.
 
 Structure
 =========
 
--   Electrical double layer
+-   There are several models of the **electrical double layer**
 
-    1.  Helmholtz (fixed layer of ions)
+    1.  The **Helmholtz** double layer has a fixed layer of ions
 
-    2.  Gouy & Chapman (point ions that follow Maxwell-Boltzmann
-        statistics. Linearized to solve Poisson’s equation)
+    2.  The **Gouy & Chapman** double layer has point ions that follow Maxwell-Boltzmann
+        statistics. The Posson-Boltzmann equation can be linearized in the low concentration
+        limit to solve Poisson’s equation.
 
-    3.  Stern (combines fixed layer with diffuse region)
+    3.  The **Stern** double layer combines a fixed layer with a diffuse region.
 
-    4.  Grahame (Inner Helmholtz Plane (absorbed), Outer Helmholtz
-        Plane, diffuse layer)
+    4.  The **Grahame** double layer has an Inner Helmholtz Plane (absorbed),
+        an Outer Helmholtz Plane, and a diffuse layer.
 
 Equilibrium Thermodynamics
 ==========================
 
-Corrosion is described by a series of chemical reactions.
+Corrosion can be described by a series of chemical reactions.
 
 At equilibrium the ratios of the amounts of reactants and products
 can be computed. For a reaction of the form
