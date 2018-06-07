@@ -206,7 +206,8 @@ more negative potential to proceed in the oxidising direction (mnemonic: NO),
 while the one with the more positive potential will proceed in the reducing
 direction (mnemonic: PR).
 
-Pourbaix diagrams are phase diagrams displaying the most stable species as
+### Pourbaix Diagrams
+These are phase diagrams displaying the most stable species as
 a function of electrode potential ($\mu\_{e}=-FE$) and pH.  The phase boundary
 lines are derived from the equation of chemical equilibrium. For example, for
 the equilibrium $Mg^{++}+2H^{+}+4e^{-}\rightleftharpoons MgH\_{2}$ we have
@@ -225,13 +226,13 @@ The voltage is given by $\mu\_{e}=\mu\_{e,ref}-FE$.
 Kinetics
 ========
 
-The Butler-Volmer equation:
+The **Butler-Volmer** equation:
 
 <div>
 $i=i_{0}\left\{ \exp\left(\frac{\alpha_{a}zF\eta}{RT}\right)-\exp\left(-\frac{\alpha_{c}zF\eta}{RT}\right)\right\}$
 </div>
 
-For large positive (or negative) overpotential we get the Tafel equation
+For large positive (or negative) overpotential we get the **Tafel** equation
 
 <div>
 $$\begin{aligned} i & \approx
@@ -239,16 +240,13 @@ $$\begin{aligned} i & \approx
 i & \approx & \ln i_{0}+\left(\frac{\alpha_{a}zF}{RT}\right)\eta\end{aligned}$$
 </div>
 
-Faraday’s law $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
+**Faraday’s law** $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
 produced at an electrode, $Q$ is the total charge delivered to the system, $F$
 is Faraday’s constant, $M$ is the molar mass of the substance, and $n$ is the
 charge per ion.
 
 At fixed overpotential, the total measured current must equal the net rate of
 electron transfer to or from the electrode (to avoid a change in net charge).
-
-To understand complex geometries (e.g. pits) where diffusion as well as
-chemistry are important, need something like kinetic Monte-Carlo.
 
 Potentials
 ==========
@@ -275,6 +273,8 @@ $\alpha=\tilde{\mu}-q\psi=\mu+q\chi$. Also $\alpha=\alpha^{0}+kT\ln a$ where $\a
 Work function $W$
 : $W=\tilde{\mu}^{g,0}-\tilde{\mu}^{0}=\mu^{g,0}-\alpha^{0}=\mu^{g,0}-\mu^{0}-q\chi$
 
+Potential of Zero Charge
+: The value of the electrode potential such that the electrode surface has zero charge
 
 $q$ is the charge of the particle.
 Note that the point $p$ is always in vacuum.
