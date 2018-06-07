@@ -25,7 +25,7 @@ corrosion.
 Mnemonics and definitions
 =========================
 
--   **OILRIG** Oxidation Is Loss Reduction Is Gain
+-   **OILRIG**: Oxidation Is Loss Reduction Is Gain
 
 -   At an **A**node we have oxid**A**tion
 
@@ -33,8 +33,8 @@ Mnemonics and definitions
 
 -   A reduction reaction has the electrons on the left. For example
     $M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of
-    M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation,
-    and this happens at the anode during corrosion.
+    M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation:
+    this happens at the anode during corrosion.
 
 -   A **noble metal** is unreactive and has a large positive standard electrode
     potential. The solid metal is more stable than its aqueous ions.
@@ -61,10 +61,10 @@ Structure
 Equilibrium Thermodynamics
 ==========================
 
-Corrosion can be described by a series of chemical reactions.
+Corrosion can be described by a series of chemical reactions. Here we repeat some standard results from chemistry.
 
-At equilibrium the ratios of the amounts of reactants and products
-can be computed. For a reaction of the form
+1.  At equilibrium the ratios of the amounts of reactants and products
+    can be computed. For a reaction of the form
   
 <div>
 $$n_{1}R_{1}+n_{2}R_{2}+\dots+n_{N}R_{N}\rightleftharpoons m_{1}P_{1}+m_{2}P_{2}+\dots+m_{M}P_{M}\label{eq:N1}$$
@@ -79,7 +79,7 @@ $$K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i
 where $\left\\{ X\right\\}$ is the activity of $X$, and is equal to 1
 under standard conditions ($\left\\{ X\right\\} ^{\ominus}=1$).
 
-Thermodynamic activity is dimensionless and related to concentration by
+2.  Thermodynamic activity is dimensionless and related to concentration by
 
 <div>$$
 \left\{ X\right\} =\gamma_{X}\frac{\left[X\right]}{\left[X\right]^{\ominus}}
@@ -88,7 +88,7 @@ Thermodynamic activity is dimensionless and related to concentration by
 where $\gamma\_{X}$ is the activity coefficient. It can also be
 expressed in a similar manner in terms of pressure or mole fraction.
 
-The equilibrium constant can be related to the free energy change for the
+3.  The equilibrium constant can be related to the free energy change for the
 reaction.
 
 The free energy is stationary at equilibrium, and hence does not change if
@@ -96,7 +96,7 @@ a small amount of the reactants transform into products or vice versa. Thus we
 have $0=\sum\_{j=1}^{M}m_{j}\mu\_{Pu\_{j}}-\sum\_{i=1}^{N}n\_{i}\mu\_{R\_{i}}$ where
 $\mu\_{P\_{j}}$ is the chemical potential for species $P\_{j}$ etc.
 
-Chemical potentials of species vary with their environment according to
+4.  Chemical potentials of species vary with their environment according to
 
 <div>$$
 \mu_{X}=\mu_{X}^{\ominus}+RT\ln\left\{ X\right\} 
@@ -105,8 +105,8 @@ Chemical potentials of species vary with their environment according to
 where $\mu\_{X}^{\ominus}$ is the chemical potential of $X$ under standard
 conditions.
 
-Substituting the expression for chemical potential into the
-equilibrium condition gives 
+5.  Substituting the expression for chemical potential into the
+    equilibrium condition gives 
 
 <div>$$\begin{aligned}
     0 & = & \sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}+RT\left(\sum_{j=1}^{M}\ln\left\{ P_{j}\right\} ^{m_{j}}-\sum_{i=1}^{N}\ln\left\{ R_{i}\right\} ^{n_{i}}\right)\\
