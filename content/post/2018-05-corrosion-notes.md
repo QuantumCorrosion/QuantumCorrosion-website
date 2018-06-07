@@ -41,6 +41,12 @@ Mnemonics and definitions
 
 -   A **base metal** is reactive and has large negative standard electrode
     potential. The solid metal is less stable than its aqueous ions.
+    
+-   An **ideally polarizable electrode** supports the applied potential without
+    allowing any current to flow. It can be thought of as acting like a capacitor.
+
+-   An **ideally non-polarizable electrode** supports a current from the electode
+    into the solution with very small applied potentials.
 
 Structure
 =========
@@ -61,7 +67,9 @@ Structure
 Equilibrium Thermodynamics
 ==========================
 
-Corrosion can be described by a series of chemical reactions. Here we repeat some standard results from chemistry.
+Corrosion can be described by a series of chemical reactions.
+
+### Standard results from chemistry.
 
 1.  At equilibrium the ratios of the amounts of reactants and products
     can be computed. For a reaction of the form
