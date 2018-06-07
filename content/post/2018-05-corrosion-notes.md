@@ -66,18 +66,18 @@ Corrosion can be described by a series of chemical reactions. Here we repeat som
 1.  At equilibrium the ratios of the amounts of reactants and products
     can be computed. For a reaction of the form
   
-<div>
-$$n_{1}R_{1}+n_{2}R_{2}+\dots+n_{N}R_{N}\rightleftharpoons m_{1}P_{1}+m_{2}P_{2}+\dots+m_{M}P_{M}\label{eq:N1}$$
-</div>
+    <div>
+    $$n_{1}R_{1}+n_{2}R_{2}+\dots+n_{N}R_{N}\rightleftharpoons m_{1}P_{1}+m_{2}P_{2}+\dots+m_{M}P_{M}\label{eq:N1}$$
+    </div>
 
-we have equilibrium constant $K$ given by
+    we have equilibrium constant $K$ given by
 
-<div>
-$$K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}\label{eq:N2}$$
-</div>
+    <div>
+    $$K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}\label{eq:N2}$$
+    </div>
 
-where $\left\\{ X\right\\}$ is the activity of $X$, and is equal to 1
-under standard conditions ($\left\\{ X\right\\} ^{\ominus}=1$).
+    where $\left\\{ X\right\\}$ is the activity of $X$, and is equal to 1
+    under standard conditions ($\left\\{ X\right\\} ^{\ominus}=1$).
 
 2.  Thermodynamic activity is dimensionless and related to concentration by
 
