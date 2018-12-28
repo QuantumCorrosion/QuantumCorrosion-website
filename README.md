@@ -1,21 +1,21 @@
 # quantumcorrosion.github.io
 
-This is the GitHub repository for the quantumcorrosion.github.io website
-(draft). 
+This is the GitHub repository for the quantumcorrosion.github.io website. 
 It uses the HUGO static site builder, along with a customised version of the
 Academic theme/framework. 
 
-## Academic Kickstart
+## Updating the website
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
+This website uses the static-site generator Hugo. 
 
-**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
+This repository store the Markdown formatted text file which define the
+website. 
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+Hugo is then invoked to render these text files to the generated HTML/CSS,
+which sits in the `public` sub folder. 
+This is also a git repository, pointing to a special 'github pages' repository
+which is then served by GitHub as HTML.
 
-## License
+## Setting up a local machine
 
-Copyright 2017 [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
