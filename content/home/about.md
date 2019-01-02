@@ -24,7 +24,7 @@ weight = 5
   institution = "Imperial College London"
 
 [[academics.academics]]
-  name = "Dr Jarvist Moore Frost"
+  name = "Dr Jarvist Moore Frost (January 2018 -- Dec 2018)"
   institution = "King's College London"
 
 [[academics.academics]]

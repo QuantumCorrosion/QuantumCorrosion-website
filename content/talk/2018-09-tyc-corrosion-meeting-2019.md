@@ -9,12 +9,12 @@ time_start = 2019-04-25T09:00:00+01:00
 time_end = 2019-04-25T17:00:00+01:00
 
 # Abstract and optional shortened version.
-abstract = "A one-day meeting focused on 'fundamentals of the electrochemistry of the metal/electrolyte interface'. Geraint Williams (Swansea) and Michiel Sprik (Cambridge) are invited speakers."
+abstract = "This symposium will focus on the aqueous corrosion of metals, and will put together theorist and experimentalists, to explore together what they can offer and what they need."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Computational corrosion: Fundamentals"
-event_url = ""
+event = "Fundamentals of the electrochemistry of the metal/electrolyte interface"
+event_url = "http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45"
 
 # Location of event.
 location = "Imperial College London, Room G05, Royal School of Mines"
@@ -52,18 +52,10 @@ caption = ""
 
 +++
 
-We are happy to announce that we are having a one-day corrosion meeting
-at Imperial College (London) on Thursday 25 April 2019. 
+We are happy to announce that we are having a one-day corrosion meeting at Imperial College (London) on Thursday 25 April 2019. 
 Support is from the Thomas Young Centre (https://www.thomasyoungcentre.org/)
 
-The topic of the meeting will be focused on 'fundamentals of the
-electrochemistry of the metal/electrolyte interface'. 
+The topic of the meeting will be focused on 'fundamentals of the electrochemistry of the metal/electrolyte interface'. 
 
-We have two invited speakers confirmed, 
-
-1. Geraint Williams (Swansea)
-   * http://www.swansea.ac.uk/staff/engineering/geraint.williams/
-2. Michiel Sprik (Cambridge)
-   * https://www.ch.cam.ac.uk/person/ms284
-
+Please see the meeting website for more information (http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45).
 
