@@ -1,12 +1,12 @@
 +++
 title = "International Workshop on Computational Electrochemistry"
-date = 2018-05-09T12:00:00+01:00  # Schedule page publish date.
+publishDate = 2018-05-09T12:00:00+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-07-09T12:00:00+01:00 
-time_end = 2018-07-12T12:00:00+01:00 
+date = 2018-07-09T12:00:00+01:00 
+date_end = 2018-07-12T12:00:00+01:00 
 
 # Abstract and optional shortened version.
 abstract = "With great timing there is a CECAM/Psi-K organised workshop on computational electrochemistry. The perfect event to both find what the state of the art Density Functional Theory calculations are capable of, as well as flying the flag for our more computationally efficient Tight Binding, and Hairy Probe open boundary conditions."

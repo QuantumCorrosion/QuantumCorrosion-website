@@ -1,12 +1,12 @@
 +++
 title = "Computational corrosion: Fundamentals"
-date = 2018-09-28T17:25:47+01:00
+publishDate = 2018-09-28T17:25:47+01:00
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-04-25T09:00:00+01:00
-time_end = 2019-04-25T17:00:00+01:00
+date = 2019-04-25T09:00:00+01:00
+date_end = 2019-04-25T17:00:00+01:00
 
 # Abstract and optional shortened version.
 abstract = "This symposium will focus on the aqueous corrosion of metals, and will put together theorist and experimentalists, to explore together what they can offer and what they need."

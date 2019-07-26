@@ -1,12 +1,12 @@
 +++
 title = "Computational Corrosion TYC"
-date = 2018-04-18T17:41:00+01:00  # Schedule page publish date.
+publishDate = 2018-04-18T17:41:00+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-24T09:00:00+01:00
-time_end = 2018-04-24T17:00:00+01:00
+date = 2018-04-24T09:00:00+01:00
+date_end = 2018-04-24T17:00:00+01:00
 
 # Abstract and optional shortened version.
 abstract = "A kick-off meeting with the wider Thomas Young Centre groups."
