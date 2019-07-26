@@ -22,13 +22,17 @@ http://quantumcorrosion.org is registered for 5 years from NameCheap starting on
 
 ## Setting up a local machine
 
-1) Acquire Hugo. `Go` programs are distributed as statically compiled executables, so this should be a simple matter of downloading the latest binary, and placing the `hugo` executable somewhere in your path, such as `~/bin`. 
+1) Clone this repository, which contains the human-readable Markdown for the website.
+
+`git clone --recursive git@github.com:QuantumCorrosion/QuantumCorrosion-website.git `
+
+The recursive flag is used to initialise submodules; in this case that means the "academic theme" used to create the site (essentially a template).
+
+2) Acquire Hugo. `Go` programs are distributed as statically compiled executables, so this should be a simple matter of downloading the relevant binary, and placing the `hugo` executable somewhere in your path, such as `~/bin`. 
 
 Hugo releases: https://github.com/gohugoio/hugo/releases
 
-2) Clone this repository, which contains the human-readable Markdown for the website.
-
-`git clone git@github.com:QuantumCorrosion/QuantumCorrosion-website.git `
+The extended version is needed. To figure out the release version needed read "min\_version" from the file "themes/academic/theme.toml" (path relative to THIS repository).
 
 3) Enter this repository, and clone the 'github-pages' HTML-repository (`quantumcorrosion.github.io`) to a folder named `public`
 
