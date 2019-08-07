@@ -20,7 +20,7 @@ email_form = 0
 
 Please get in touch with the individual academics mentioned above. In
 particular, the Principal Investigators on this project are 
-[Tony Paxton](https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/paxton.aspx)
+[Tony Paxton](https://nms.kcl.ac.uk/tony.paxton/)
 and 
 [Andrew Horsfield](https://www.imperial.ac.uk/people/a.horsfield).
 
