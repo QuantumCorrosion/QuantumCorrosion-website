@@ -1,5 +1,5 @@
 +++
-title = "Electrophysics Notes (July 2019)"
+title = "Electrophysics Notes"
 summary = "Notes written by Tony Paxton as part of a series of journal clubs at Kings College London and Imperial College London in 2018."
 date = 2019-07-26T13:12:47+01:00
 draft = false
@@ -20,4 +20,4 @@ caption = ""
 +++
 Notes written by Tony Paxton as part of a series of journal clubs at Kings College London and Imperial College London in 2018.
 
-[Electrophysics-Notes.pdf](/files/notes-v5.pdf)
+[Electrophysics-Notes.pdf](/files/notes-v11-2.pdf)
