@@ -72,10 +72,16 @@ This page will be updated with more details closer to the event
 
 *    David Rugg (Rolls-Royce Plc)
 
+**Registration**
+
+Registration is free. Details on how to register will be added shortly.
+
 **Organisers**
 
 *    Clotilde Cucinotta (Imperial College London)
 *    Andrew Horsfield (Imperial College London)
 *    Tony Paxton (King's College London)
 
+
+<img src="/img/TYC-black-on-white-orig.jpg" alt="tyc_logo" width="100"/>
 
