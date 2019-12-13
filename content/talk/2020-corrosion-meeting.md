@@ -19,7 +19,7 @@ event_url = ""
 
 
 # Location of event.
-location = "Kings College London"
+location = "River Room, King's Building, **King's College London**, Strand, London WC2R 2LS"
 
 # Is this a selected talk? (true/false)
 selected = true
