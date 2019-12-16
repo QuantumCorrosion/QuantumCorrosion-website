@@ -67,6 +67,7 @@ This page will be updated with more details closer to the event
 *   Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)
 *   Julia Kunze Liebhäuser (University of Innbruck)
 *   Mark Rainforth (The University of Sheffield) 
+*   Tony Horner (Rolls-Royce Submarines Limited)
 
 **Confirmed Attendees**
 
