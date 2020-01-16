@@ -75,7 +75,7 @@ This page will be updated with more details closer to the event
 
 **Registration**
 
-Registration is free. Details on how to register will be added shortly.
+Registration is free. Please register by clicking [here](https://imperial.eu.qualtrics.com/jfe/form/SV_6m65GfdRxkbUJc9).
 
 **Organisers**
 
