@@ -64,7 +64,8 @@ This page will be updated with more details closer to the event
 *   Barbara Shollock (King's College London)
 *   Geraint Williams (University of Swansea)
 *   Afrooz Barnoush (Norwegian University of Science and Technology)
-*   Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)
+*   Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)  
+*Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*
 *   Julia Kunze Liebhäuser (University of Innbruck)
 *   Mark Rainforth (The University of Sheffield) 
 *   Tony Horner (Rolls-Royce Submarines Limited)
