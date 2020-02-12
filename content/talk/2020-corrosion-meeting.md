@@ -68,7 +68,8 @@ This page will be updated with more details closer to the event
 *Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*
 *   Julia Kunze Liebhäuser (University of Innbruck)
 *   Mark Rainforth (The University of Sheffield) 
-*   Tony Horner (Rolls-Royce Submarines Limited)
+*   Tony Horner (Rolls-Royce Submarines Limited)  
+*Environmental Degradation of Materials used in the Nuclear Power Industry*
 
 **Confirmed Attendees**
 
