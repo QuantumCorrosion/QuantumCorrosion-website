@@ -70,6 +70,7 @@ This page will be updated with more details closer to the event
 *   Mark Rainforth (The University of Sheffield) 
 *   Tony Horner (Rolls-Royce Submarines Limited)  
 *Environmental Degradation of Materials used in the Nuclear Power Industry*
+*   Stella Pedrazzini (Imperial College London)
 
 **Confirmed Attendees**
 
