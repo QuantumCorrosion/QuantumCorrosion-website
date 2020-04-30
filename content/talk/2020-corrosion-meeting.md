@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-04-20T09:00:00+01:00
+date = 2020-09-11T09:00:00+01:00
 #date_end = 2019-04-25T17:00:00+01:00
 
 # Abstract and optional shortened version.
@@ -54,11 +54,13 @@ caption = ""
 
 +++
 
+**PLEASE NOTE:** This meeting was originally scheduled for April, but was postponed due to the coronavirus outbreak. Thus, the (previously confirmed) speaker list below is currently subject to change if speakers are unavailable on the new date.
+
 This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (*i.e.* longer than from standard atomistic methods). Funding for this event is from the EPSRC.
 
 This page will be updated with more details closer to the event
 
-**Confirmed Speakers**
+**Speakers**
 
 *   Michiel Sprik (University of Cambridge)
 *   Barbara Shollock (King's College London)
@@ -72,7 +74,7 @@ This page will be updated with more details closer to the event
 *Environmental Degradation of Materials used in the Nuclear Power Industry*
 *   Stella Pedrazzini (Imperial College London)
 
-**Confirmed Attendees**
+**Attendees**
 
 *    David Rugg (Rolls-Royce Plc)
 
