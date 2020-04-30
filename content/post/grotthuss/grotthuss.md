@@ -19,7 +19,7 @@ caption = ""
 
 +++
 
-Alexander Lozovoi has been using tight-binding to model the Grotthuss proton transfer mechanism in water. Shown below are parts of molecular dynamics simulations for a hydronium ion in water.
+The group at King's College (Sebastian Budd, Alexander Lozovoi and Tony Paxton) have been using tight-binding to model the Grotthuss proton transfer mechanism in water. Shown below are parts of molecular dynamics simulations for a hydronium ion in water.
 
 {{< video library="1" src="GrotthussDoubleJump.mp4" controls="yes" >}}
 Video 1: Two proton transfer events occuring. The central oxygen of the hydronium ion is shown in blue.
