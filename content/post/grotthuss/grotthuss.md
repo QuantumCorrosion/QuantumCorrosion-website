@@ -27,8 +27,5 @@ Video 1: Two proton transfer events occuring. The central oxygen of the hydroniu
 {{< video library="1" src="GrotthussFlickeringEvent.mp4" controls="yes" >}}
 Video 2: A "flickering" event whereby the proton moves back and forth between two water molecules. The central oxygen of the hydronium ion is shown in blue.
 
-{{< video library="1" src="GrotthussBreakdown.mp4" controls="yes" >}}
-Video 3: A free hydrogen is generated.
-
 
 
