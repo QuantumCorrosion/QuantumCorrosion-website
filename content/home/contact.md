@@ -20,7 +20,7 @@ email_form = 0
 
 Please get in touch with the individual academics mentioned above. In
 particular, the Principal Investigators on this project are 
-[Tony Paxton](https://nms.kcl.ac.uk/tony.paxton/)
+[Tony Paxton](https://www.tonypaxton.org)
 and 
 [Andrew Horsfield](https://www.imperial.ac.uk/people/a.horsfield).
 
