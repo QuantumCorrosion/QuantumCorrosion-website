@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-09-11T09:00:00+01:00
+date = 2021-04-19T09:00:00+01:00
 #date_end = 2019-04-25T17:00:00+01:00
 
 # Abstract and optional shortened version.
@@ -54,27 +54,29 @@ caption = ""
 
 +++
 
-**PLEASE NOTE:** This meeting was originally scheduled for April, but was postponed due to the coronavirus outbreak. Thus, the (previously confirmed) speaker list below is currently subject to change if speakers are unavailable on the new date.
+**PLEASE NOTE:** This meeting was originally scheduled for April 2020, but was postponed due to the coronavirus outbreak. Thus, the (previously confirmed) speaker list below is currently subject to change if speakers are unavailable on the new date.
 
 This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (*i.e.* longer than from standard atomistic methods). Funding for this event is from the EPSRC.
 
 This page will be updated with more details closer to the event
 
-**Speakers**
+**Speakers (Previously confirmed)**
 
 *   Michiel Sprik (University of Cambridge)
 *   Barbara Shollock (King's College London)
 *   Geraint Williams (University of Swansea)
 *   Afrooz Barnoush (Norwegian University of Science and Technology)
-*   Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)  
-*Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*
+*   Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)
 *   Julia Kunze Liebhäuser (University of Innbruck)
 *   Mark Rainforth (The University of Sheffield) 
-*   Tony Horner (Rolls-Royce Submarines Limited)  
-*Environmental Degradation of Materials used in the Nuclear Power Industry*
+*   Tony Horner (Rolls-Royce Submarines Limited)
 *   Stella Pedrazzini (Imperial College London)
 
-**Attendees**
+[comment]: <> (*Philippe Marcus Previous title: Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*)
+[comment]: <> (*Tony Horner Previous title: Environmental Degradation of Materials used in the Nuclear Power Industry*)
+
+
+**Attendees (Previously confirmed)**
 
 *    David Rugg (Rolls-Royce Plc)
 
