@@ -5,7 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2021-04-19T09:00:00+01:00
+date = 2021-09-07T09:00:00+01:00
+#date = 2021-04-19T09:00:00+01:00
 #date_end = 2019-04-25T17:00:00+01:00
 
 # Abstract and optional shortened version.
@@ -74,11 +75,6 @@ This page will be updated with more details closer to the event
 
 [comment]: <> (*Philippe Marcus Previous title: Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*)
 [comment]: <> (*Tony Horner Previous title: Environmental Degradation of Materials used in the Nuclear Power Industry*)
-
-
-**Attendees (Previously confirmed)**
-
-*    David Rugg (Rolls-Royce Plc)
 
 **Registration**
 
