@@ -1,5 +1,5 @@
 +++
-title = "Fundamentals of the electrochemistry of the metal/electrolyte interface 2"
+title = "Fundamentals of the electrochemistry of the metal/electrolyte interface 2 (POSTPONED UNTIL 2022)"
 publishDate = 2019-12-10T17:25:47+01:00
 draft = false
 
@@ -14,13 +14,14 @@ date = 2021-09-07T09:00:00+01:00
 #abstract_short = ""
 
 ## Name of event and optional event URL.
-event = "One day meeting"
-event_url = ""
+#event = "One day meeting"
+event = "Corrosion meeting"
+#event_url = ""
 
 
 
 # Location of event.
-location = "River Room, King's Building, **King's College London**, Strand, London WC2R 2LS"
+#location = "River Room, King's Building, **King's College London**, Strand, London WC2R 2LS"
 
 # Is this a selected talk? (true/false)
 selected = true
