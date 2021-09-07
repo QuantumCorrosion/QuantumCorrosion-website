@@ -56,23 +56,28 @@ caption = ""
 
 +++
 
-**PLEASE NOTE:** This meeting was originally scheduled for April 2020, but was postponed due to the coronavirus outbreak. Thus, the (previously confirmed) speaker list below is currently subject to change if speakers are unavailable on the new date.
+**PLEASE NOTE:** This meeting was originally scheduled for April 2020, but was postponed due to the coronavirus outbreak. **It will now take place in 2022 (in person).**
 
 This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (*i.e.* longer than from standard atomistic methods). Funding for this event is from the EPSRC.
 
 This page will be updated with more details closer to the event
 
-**Speakers (Previously confirmed)**
+**Speakers (Confirmed)**
 
 *   Michiel Sprik (University of Cambridge)
-*   Barbara Shollock (King's College London)
 *   Geraint Williams (University of Swansea)
-*   Afrooz Barnoush (Norwegian University of Science and Technology)
-*   Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)
-*   Julia Kunze Liebhäuser (University of Innbruck)
-*   Mark Rainforth (The University of Sheffield) 
-*   Tony Horner (Rolls-Royce Submarines Limited)
+*   Philippe Marcus (CNRS and Institut de Recherche de Chimie Paris, at Chimie
+ParisTech)
+*   Julia Kunze-Liebhäuser (Institut für Physikalische Chemie, Insbruck)
+*   Mark Rainforth (Unversity of Sheffield)
+*   Tony Horner (Rolls-Royce)
 *   Stella Pedrazzini (Imperial College London)
+*   Marialore Sulpizi (Max-Planck-Institute, Mainz)
+*   Angel Cuestar Ciscar (University of Aberdeen)
+*   Emilio Martinez-Paneda (Imperial College London)
+*   Mathieu Salanne (Sorbonne, Paris)
+*   Ellen Backus (University of Vienna)
+
 
 [comment]: <> (*Philippe Marcus Previous title: Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*)
 [comment]: <> (*Tony Horner Previous title: Environmental Degradation of Materials used in the Nuclear Power Industry*)
