@@ -59,6 +59,7 @@ caption = ""
 #
 # **registration**
 # registration is free. please register by clicking [here](https://imperial.eu.qualtrics.com/jfe/form/sv_6m65gfdrxkbujc9).
+# *   **Alexei Kornyshev** (Imperial College London)
 
 
 +++
@@ -100,7 +101,6 @@ ParisTech)
 
 *Correlative imaging of lithium ion diffusion in 3D structures inside operating batteries*
 
-*   **Alexei Kornyshev** (Imperial College London)
 
 
 **Organisers**
@@ -108,7 +108,7 @@ ParisTech)
 *    Clotilde Cucinotta (Imperial College London)
 *    Andrew Horsfield (Imperial College London)
 *    Tony Paxton (King's College London)
-
+*    Hafiza Bibi (Imperial College London)
 
 <img src="/img/TYC-black-on-white-orig.jpg" alt="tyc_logo" width="100"/>
 
