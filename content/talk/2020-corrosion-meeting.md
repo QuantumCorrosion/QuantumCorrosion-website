@@ -55,6 +55,12 @@ highlight = true
 image = ""
 caption = ""
 
+
+#
+# **registration**
+# registration is free. please register by clicking [here](https://imperial.eu.qualtrics.com/jfe/form/sv_6m65gfdrxkbujc9).
+
+
 +++
 
 **PLEASE NOTE:** This meeting was originally scheduled for April 2020, but was postponed due to the coronavirus outbreak. **It will now take place in 2022 (in person).**
@@ -65,27 +71,37 @@ This page will be updated with more details closer to the event
 
 **Speakers (Confirmed)**
 
-*   Michiel Sprik (University of Cambridge)
-*   Geraint Williams (University of Swansea)
-*   Philippe Marcus (CNRS and Institut de Recherche de Chimie Paris, at Chimie
+*   **Angel Cuestar Ciscar** (University of Aberdeen)
+
+*Time-resolved ATR-SEIRAS studies of electrocatalytic reactions*
+
+*   **Emilio Martinez-Paneda** (Imperial College London)
+
+*Electro-chemo-mechanical phase field models for predicting pitting and stress corrosion cracking*
+
+*   **Philippe Marcus** (CNRS and Institut de Recherche de Chimie Paris, at Chimie
 ParisTech)
-*   Julia Kunze-Liebhäuser (Institut für Physikalische Chemie, Insbruck)
-*   Mark Rainforth (Unversity of Sheffield)
-*   Tony Horner (Rolls-Royce)
-*   Stella Pedrazzini (Imperial College London)
-*   Marialore Sulpizi (Max-Planck-Institute, Mainz)
-*   Angel Cuestar Ciscar (University of Aberdeen)
-*   Emilio Martinez-Paneda (Imperial College London)
-*   Mathieu Salanne (Sorbonne, Paris)
-*   Ellen Backus (University of Vienna)
 
+*   **Stella Pedrazzini** (Imperial College London)
 
-[comment]: <> (*Philippe Marcus Previous title: Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion*)
-[comment]: <> (*Tony Horner Previous title: Environmental Degradation of Materials used in the Nuclear Power Industry*)
+*Atom probe tomography and its applications in understanding corrosion of metals*
 
-**Registration**
+*   **Marialore Sulpizi** (Max-Planck-Institute, Mainz)
 
-Registration is free. Please register by clicking [here](https://imperial.eu.qualtrics.com/jfe/form/SV_6m65GfdRxkbUJc9).
+*   **Mathieu Salanne** (Sorbonne, Paris)
+
+*Electrode models for computational electrochemistry*
+
+*   **Ellen Backus** (University of Vienna)
+
+*Vibrational sum frequency generation spectroscopy at the solid/liquid interface*
+
+*   **Ann Huang** (King's College London)
+
+*Correlative imaging of lithium ion diffusion in 3D structures inside operating batteries*
+
+*   **Alexei Kornyshev** (Imperial College London)
+
 
 **Organisers**
 
