@@ -66,9 +66,9 @@ caption = ""
 
 +++
 
-This symposium is supported by the TYC and is the third meeting organised by the partners of the EPSRC project on quantum corrosion. The symposium will focus on the fundamentals of electrochemistry of the metal/electrolyte interface, and will bring together theorists and experimentalists to discuss the latest developments. As well as the talks, there is a poster session and a concluding discussion session
+This symposium is supported by the TYC and is the third meeting organised by the partners of the EPSRC project on quantum corrosion. The symposium will focus on the fundamentals of electrochemistry of the metal/electrolyte interface, and will bring together theorists and experimentalists to discuss the latest developments. As well as the talks, there is a poster session and a concluding discussion session.
 
-This page will be updated with more details closer to the event
+This page will be updated with more details closer to the event.
 
 **Speakers (Confirmed)**
 
