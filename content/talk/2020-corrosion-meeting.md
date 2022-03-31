@@ -61,12 +61,12 @@ caption = ""
 # registration is free. please register by clicking [here](https://imperial.eu.qualtrics.com/jfe/form/sv_6m65gfdrxkbujc9).
 # *   **Alexei Kornyshev** (Imperial College London)
 
+#This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (*i.e.* longer than from standard atomistic methods). Funding for this event is from the EPSRC.
+
 
 +++
 
-**PLEASE NOTE:** This meeting was originally scheduled for April 2020, but was postponed due to the coronavirus outbreak. **It will now take place in 2022 (in person).**
-
-This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (*i.e.* longer than from standard atomistic methods). Funding for this event is from the EPSRC.
+This symposium is supported by the TYC and is the third meeting organised by the partners of the EPSRC project on quantum corrosion. The symposium will focus on the fundamentals of electrochemistry of the metal/electrolyte interface, and will bring together theorists and experimentalists to discuss the latest developments. As well as the talks, there is a poster session and a concluding discussion session
 
 This page will be updated with more details closer to the event
 
