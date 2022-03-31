@@ -70,6 +70,12 @@ This symposium is supported by the TYC and is the third meeting organised by the
 
 This page will be updated with more details closer to the event.
 
+Note: See also the TYC page for the event [here](https://thomasyoungcentre.org/event/fundamentals-of-the-electrochemistry-of-the-metal-electrolyte-interface)
+
+**Registration**
+Registration is free and open to all. Please register by clicking [here](https://imperial.eu.qualtrics.com/jfe/form/SV_6m65GfdRxkbUJc9). Note registration will close on 31st May 2022.
+
+
 **Speakers (Confirmed)**
 
 *   **Angel Cuestar Ciscar** (University of Aberdeen)
